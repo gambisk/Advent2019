@@ -6,10 +6,14 @@ namespace Advent2019
     {
         static void Main(string[] args)
         {
-			//Day2.Solve();
+			//Day2Solution.Solve();
+			//Day5Solution.Solve();
+			//Day5Solution.Test();
 			// Day3Solution.Solve();
 
-			Day4Solution.Solve();
+			Day6Solution.Part2();
+
+			//Day4Solution.Solve();
 			//var program = intcode.InitializeMemory(Day2.Day2Input);
 			//var executedProgram =  intcode.ExecuteProgram(program);
 			//var result = intcode.GetOutput(executedProgram);
