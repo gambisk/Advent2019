@@ -11,13 +11,17 @@ namespace Advent2019
 			//Day5Solution.Test();
 			// Day3Solution.Solve();
 
-			Day6Solution.Part2();
+			//Day6Solution.Part2();
 
 			//Day4Solution.Solve();
 			//var program = intcode.InitializeMemory(Day2.Day2Input);
 			//var executedProgram =  intcode.ExecuteProgram(program);
 			//var result = intcode.GetOutput(executedProgram);
-            //Console.WriteLine(noun. v);
+			//Console.WriteLine(noun. v);
+
+			Day7Solution.SolvePart2();
+
+			//Day8Solution.Part2();
         }
     }
 }
